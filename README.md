@@ -1,5 +1,6 @@
 # Afame-Technology
 **Project 1**
+
 **E-commerce Sales Analysis**
 This Power BI report provides an in-depth analysis of sales data for an e-commerce business. The dashboard includes various visualizations and metrics to help understand the performance across different segments, categories, and regions.
 
